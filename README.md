@@ -1,2 +1,2 @@
-# IMERSAO-PYTHON-ALURA
+# IMERSAO-dados- PYTHON-ALURA
 Imersão dados python alura, introduzir e aprender sobre projetos, aumentar o portifólio e melhorar as habilidades.
