@@ -1,4 +1,6 @@
 # IMERSAO-dados- PYTHON-ALURA
-Imersão dados python alura, introduzir e aprender sobre projetos, aumentar o portifólio e melhorar as habilidades.
+Imersão dados python alura, introduzir e aprender sobre projetos, aumentar o portifólio e melhorar as habilidades.  
 USEI A FERRAMENTA PANDAS E NUMPY  PARA TRATAR DADOS,FAZER UM DATA FRAME E FAZER GRÁFICOS BÁSICOS, AS BIBLIOTECAS SEABORN E MATPLOTLIB PARA CRIAR GRÁFICOS MAIS INTERATIVOS, E POR FIM 
-UTILIZAMOS A BIBLIOTECA PYCOUNTRY PARA FAZER UM GRÁFICO INTERATIVO DO MAPA MUNDI , COM OS SALÁRIOS DE CIENTISTAS DE DADOS POR PAÍS,
+UTILIZAMOS A BIBLIOTECA PYCOUNTRY PARA FAZER UM GRÁFICO INTERATIVO DO MAPA MUNDI , COM OS SALÁRIOS DE CIENTISTAS DE DADOS POR PAÍS,  
+
+acesse meu projeto final em -> https://imersao-python-alura-jefferson-junckes.streamlit.app/
