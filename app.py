@@ -1,4 +1,3 @@
-pip install pandas==2.2.3
 pip install streamlit==1.44.1
 pip install plotly==5.24.1
 import streamlit as st
@@ -141,3 +140,4 @@ with col_graf4:
 st.subheader("Dados Detalhados")
 
 st.dataframe(df_filtrado)
+
